@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = boris_bourdet@hotmail.com
+	name = Boris Bourdet
